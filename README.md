@@ -9,6 +9,7 @@ Python developer and network engineer focused on network tools, security, and se
 - Encrypted tunnels and proxy tools
 - Network security & traffic analysis
 - Self-hosted alternatives to closed systems
+- Anything that catches my eye in the IT world.
 
 ---
 
