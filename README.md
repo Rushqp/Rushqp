@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Rushqp
 
-<!--
-**Rushqp/Rushqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on network tools, security, and self-hosted infrastructure. I build things I actually need — then open source them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+
+- Encrypted tunnels and proxy tools
+- Network security & traffic analysis
+- Self-hosted alternatives to closed systems
+
+---
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES256%20%2B%20X25519-purple?style=flat-square)
+
+---
+
+**Projects**
+
+| Project | Description |
+|---------|-------------|
+| [phasora](https://github.com/Rushqp/phasora) | Encrypted tunnel through any firewall — SOCKS5 + iPhone VLESS support |
+
+---
+
+> *Building in the open. Everything I make is for real use, not demos.*
