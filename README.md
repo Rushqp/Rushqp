@@ -1,6 +1,6 @@
 ### Hi, I'm Rushqp
 
-Python developer focused on network tools, security, and self-hosted infrastructure. I build things I actually need — then open source them.
+Python developer and network engineer focused on network tools, security, and self-hosted infrastructure. I build things I actually need — then open source them.
 
 ---
 
